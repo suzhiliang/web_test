@@ -20,7 +20,6 @@
       <artifactId>jfinal</artifactId>
       <version>1.8</version>
     </dependency>
-
   </dependencies>
   <build>
     <finalName>WEB_TEST</finalName>
